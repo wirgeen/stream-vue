@@ -1,6 +1,6 @@
 
 {
-  "name": "stream-vue",
+  "id": "stream-vue",
   "title": "Stream Vue",
   "description": "Permet de streamer la vue des joueurs, du groupe ou du MJ dans Foundry VTT.",
   "version": "1.0.0",
