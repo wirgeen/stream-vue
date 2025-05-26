@@ -20,7 +20,7 @@ Idéal pour le streaming en ligne ou pour projeter sur un écran sans exposer d�
 
 1. Télécharge le module :
 
-   - [Dernière version](https://github.com/wirgeen/stream-vue/releases/latest/download/stream-vue.zip)
+   - [Dernière version](https://github.com/wirgeen/stream-vue/releases/download/latest/stream-vue.zip)
 
 2. Installe-le dans le dossier `modules` de Foundry VTT.
 3. Active le module dans **Configuration du monde > Modules activés**.
