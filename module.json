@@ -4,12 +4,20 @@
   "title": "Stream Vue",
   "description": "Permet de streamer la vue des joueurs, du groupe ou du MJ dans Foundry VTT.",
   "version": "1.0.0",
-  "author": "Wirgeen",
-  "minimumCoreVersion": "13",
-  "compatibleCoreVersion": "13",
+  "compatibility": {
+        "minimum": "13",
+        "verified": "13",
+        "maximum": "13"
+  },
+  "authors": [
+      {
+          "name": "wirgeen",
+          "url": "https://github.com/wirgeen"
+      }
+  ],
   "scripts": ["stream-vue.js"],
   "styles": ["styles.css"],
   "url": "https://github.com/wirgeen/stream-vue",
-  "manifest": "https://github.com/wirgeen/stream-vue/releases/download/1.0.0/module.json",
+  "manifest": "https://github.com/wirgeen/stream-vue/releases/download/lastest/module.json",
   "download": "https://github.com/wirgeen/stream-vue/releases/download/1.0.0/stream-vue.zip"
 }
