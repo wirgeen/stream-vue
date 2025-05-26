@@ -1,7 +1,7 @@
 
 {
   "name": "stream-vue",
-  "title": "StreamVue",
+  "title": "Stream Vue",
   "description": "Permet de streamer la vue des joueurs, du groupe ou du MJ dans Foundry VTT.",
   "version": "1.0.0",
   "author": "Wirgeen",
