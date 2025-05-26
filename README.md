@@ -1,4 +1,3 @@
-
 # StreamVue
 
 **StreamVue** est un module Foundry VTT (v13) permettant de **partager et streamer en temps réel** ce que voient les joueurs, le groupe ou le MJ.  
@@ -20,16 +19,17 @@ Idéal pour le streaming en ligne ou pour projeter sur un écran sans exposer d�
 ## 🚀 Installation
 
 1. Télécharge le module :
-   - [Dernière version](https://github.com/ton-github/stream-vue/releases/latest/download/stream-vue.zip)
 
-2. Installe-le dans le dossier `modules` de Foundry VTT.  
+   - [Dernière version](https://github.com/wirgeen/stream-vue/releases/latest/download/stream-vue.zip)
+
+2. Installe-le dans le dossier `modules` de Foundry VTT.
 3. Active le module dans **Configuration du monde > Modules activés**.
 
 ---
 
 ## 🎛️ Utilisation
 
-1. Dans la scène, clique sur le bouton **StreamVue** (icône 🎥 dans la barre d’outils de la scène).  
+1. Dans la scène, clique sur le bouton **StreamVue** (icône 🎥 dans la barre d’outils de la scène).
 2. Configure le mode :
    - **Vue joueur** : Sélectionne le joueur dont tu veux diffuser la vue.
    - **Vue groupe** : Affiche les tokens des PJ sur la scène.
